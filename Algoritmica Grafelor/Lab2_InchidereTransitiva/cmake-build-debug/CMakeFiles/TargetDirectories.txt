@@ -1,0 +1,3 @@
+D:/GitHub/Year1Sem2/Algoritmica Grafelor/Lab2_InchidereTransitiva/cmake-build-debug/CMakeFiles/Lab2_InchidereTransitiva.dir
+D:/GitHub/Year1Sem2/Algoritmica Grafelor/Lab2_InchidereTransitiva/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/Year1Sem2/Algoritmica Grafelor/Lab2_InchidereTransitiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
